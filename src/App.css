@@ -1,2 +1,9 @@
 main {
 }
+.WelcomeCarsouel{
+  text-align : center;
+  margin-top : 5rem;
+  margin-bottom : 4rem;
+  color : #5d904e;
+   font-family: 'Poppins', sans-serif; 
+}

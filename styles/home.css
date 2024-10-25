@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600&display=swap');
+
+
+/* Styling for the Home component */
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+/* Title styling */
+.home-title {
+  margin-top : 2rem;
+  margin-bottom : 4rem;
+  font-size: 50px; /* Font size */
+  text-align: center;
+  color : #0b20a1;
+  font-family: 'Josefin Sans', sans-serif;
+}
+

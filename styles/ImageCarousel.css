@@ -1,0 +1,21 @@
+/* src/styles/ImageCarousel.css */
+
+.carousel-container {
+  width: 80%;
+  
+  margin: auto;
+}
+
+.carousel-image-wrapper {
+  margin: 0rem; /* Set margin between images */
+}
+
+.carousel-container img {
+  width: 100%; /* Make the images responsive */
+  border-radius: 10px; /* Add rounded corners */
+  border: 5px solid #ccc; /* Add a light gray border */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: add shadow for depth */
+}
+.Arjun_Chutiya {
+  margin-top : 5rem;
+}
